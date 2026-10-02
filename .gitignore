@@ -1,8 +1,5 @@
-/main/cookies.txt
-/main/last_settings.json
-/bilibili_live_stream_code.spec
-/dist/
-/build/
-/main/__pycache__/
-/main/logs/
-/main/BiliLiveGUI.lock
+.DS_Store
+.idea/
+__pycache__/
+build/
+dist/

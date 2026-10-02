@@ -1,0 +1,45 @@
+2026-01-10 22:03:03 - 账号信息保存成功！
+2026-01-10 22:03:05 - https://api.bilibili.com/x/web-interface/nav 请求失败: Invalid header value b"CURRENT_FNVAL=4048; CURRENT_QUALITY=64; DedeUserID=283408672; DedeUserID__ckMd5=9d384d2efa10e04d; LIVE_BUVID=AUTO8717680513235914; PVID=3\norigin\n; SESSDATA=39cafe6d,1780923547,077a5*c1CjB5WmoDObOc8gyn3Z_ljKlYbT0IEtEPb7hker_I_Ze3c6c-_dBqczQ0fFI7OFKaJWoSVkd5VXNBaGx0ZGQ5RndtUFA1bV85VTQ0SVRMMXZsNTlCUU1neHg5QWVQd3BUc2M3bkE2U3VFOEdSQ1c5QmtzYW5MSnNOYVM4X3R0a3ZwVlBiNmEwLXl3IIEC; _uuid=4191B49C-E71C-B31010-286C-9858EACCC48C77088infoc; b_lsid=B1ACFF510_19BA812108B; b_nut=1765371475; bili_jct=0f52b0c99dc15dec5be295eecab64442; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjgzMTA4MjksImlhdCI6MTc2ODA1MTU2OSwicGx0IjotMX0.xN6DCtwkU1JAYXig_m9LGKtWEYyGysltwVZ1F3s0drA; bili_ticket_expires=1768310769; bp_t_offset_283408672=1156270140283682816; browser_resolution=1651-947; bsource=search_google; buvid3=8A6CF720-BE9A-4995-3969-CBD52ACD5A0F75595infoc; buvid4=A2789671-199C-633E-903E-45A95DB3C97E79710-025121020-H8WvR11Ty69lbcgCerQ4mg==; buvid_fp=a31cf91a3c8a538ff6ec5408280d76b0; home_feed_column=5; rpdid=|(u~)YuR~~Y)0J'u~YlJ~ulY); show=SHOWED; sid=8o7s61m0"
+2026-01-10 22:03:05 - 获取UP主基本信息失败！Invalid header value b"CURRENT_FNVAL=4048; CURRENT_QUALITY=64; DedeUserID=283408672; DedeUserID__ckMd5=9d384d2efa10e04d; LIVE_BUVID=AUTO8717680513235914; PVID=3\norigin\n; SESSDATA=39cafe6d,1780923547,077a5*c1CjB5WmoDObOc8gyn3Z_ljKlYbT0IEtEPb7hker_I_Ze3c6c-_dBqczQ0fFI7OFKaJWoSVkd5VXNBaGx0ZGQ5RndtUFA1bV85VTQ0SVRMMXZsNTlCUU1neHg5QWVQd3BUc2M3bkE2U3VFOEdSQ1c5QmtzYW5MSnNOYVM4X3R0a3ZwVlBiNmEwLXl3IIEC; _uuid=4191B49C-E71C-B31010-286C-9858EACCC48C77088infoc; b_lsid=B1ACFF510_19BA812108B; b_nut=1765371475; bili_jct=0f52b0c99dc15dec5be295eecab64442; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjgzMTA4MjksImlhdCI6MTc2ODA1MTU2OSwicGx0IjotMX0.xN6DCtwkU1JAYXig_m9LGKtWEYyGysltwVZ1F3s0drA; bili_ticket_expires=1768310769; bp_t_offset_283408672=1156270140283682816; browser_resolution=1651-947; bsource=search_google; buvid3=8A6CF720-BE9A-4995-3969-CBD52ACD5A0F75595infoc; buvid4=A2789671-199C-633E-903E-45A95DB3C97E79710-025121020-H8WvR11Ty69lbcgCerQ4mg==; buvid_fp=a31cf91a3c8a538ff6ec5408280d76b0; home_feed_column=5; rpdid=|(u~)YuR~~Y)0J'u~YlJ~ulY); show=SHOWED; sid=8o7s61m0"
+2026-01-10 22:03:05 - https://api.bilibili.com/x/web-interface/nav/stat 请求失败: Invalid header value b"CURRENT_FNVAL=4048; CURRENT_QUALITY=64; DedeUserID=283408672; DedeUserID__ckMd5=9d384d2efa10e04d; LIVE_BUVID=AUTO8717680513235914; PVID=3\norigin\n; SESSDATA=39cafe6d,1780923547,077a5*c1CjB5WmoDObOc8gyn3Z_ljKlYbT0IEtEPb7hker_I_Ze3c6c-_dBqczQ0fFI7OFKaJWoSVkd5VXNBaGx0ZGQ5RndtUFA1bV85VTQ0SVRMMXZsNTlCUU1neHg5QWVQd3BUc2M3bkE2U3VFOEdSQ1c5QmtzYW5MSnNOYVM4X3R0a3ZwVlBiNmEwLXl3IIEC; _uuid=4191B49C-E71C-B31010-286C-9858EACCC48C77088infoc; b_lsid=B1ACFF510_19BA812108B; b_nut=1765371475; bili_jct=0f52b0c99dc15dec5be295eecab64442; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjgzMTA4MjksImlhdCI6MTc2ODA1MTU2OSwicGx0IjotMX0.xN6DCtwkU1JAYXig_m9LGKtWEYyGysltwVZ1F3s0drA; bili_ticket_expires=1768310769; bp_t_offset_283408672=1156270140283682816; browser_resolution=1651-947; bsource=search_google; buvid3=8A6CF720-BE9A-4995-3969-CBD52ACD5A0F75595infoc; buvid4=A2789671-199C-633E-903E-45A95DB3C97E79710-025121020-H8WvR11Ty69lbcgCerQ4mg==; buvid_fp=a31cf91a3c8a538ff6ec5408280d76b0; home_feed_column=5; rpdid=|(u~)YuR~~Y)0J'u~YlJ~ulY); show=SHOWED; sid=8o7s61m0"
+2026-01-10 22:03:05 - 获取UP主统计信息失败！
+2026-01-10 22:03:05 - 打开或读取cookies.txt文件时出错: list index out of range
+2026-01-10 22:03:40 - 账号信息保存成功！
+2026-01-10 22:03:42 - UP主基本信息获取成功！
+2026-01-10 22:03:42 - UP主统计信息获取成功！
+2026-01-10 22:03:42 - 已更新UP主信息！
+2026-01-10 22:03:48 - 成功加载cookies.txt文件
+2026-01-10 22:03:49 - 开始自动获取账号信息...
+2026-01-10 22:04:11 - 账号信息获取成功！
+2026-01-10 22:04:13 - 账号信息保存成功！
+2026-01-10 22:04:14 - UP主基本信息获取成功！
+2026-01-10 22:04:15 - UP主统计信息获取成功！
+2026-01-10 22:04:15 - 已更新UP主信息！
+2026-01-10 22:04:23 - 正在开始直播...
+2026-01-10 22:04:23 - 时间戳获取成功！
+2026-01-10 22:04:23 - 直播姬版本信息获取成功！
+2026-01-10 22:04:24 - 时间戳获取成功！
+2026-01-10 22:04:24 - 更新直播标题请求成功！
+2026-01-10 22:04:24 - 直播标题设置成功！
+2026-01-10 22:04:24 - 正在获取直播推流码...
+2026-01-10 22:04:24 - 开始直播请求成功！
+2026-01-10 22:04:24 - 获取推流码失败: 需要进行人脸认证！
+2026-01-10 22:04:51 - 正在开始直播...
+2026-01-10 22:04:51 - 时间戳获取成功！
+2026-01-10 22:04:51 - 直播姬版本信息获取成功！
+2026-01-10 22:04:51 - 时间戳获取成功！
+2026-01-10 22:04:52 - 更新直播标题请求成功！
+2026-01-10 22:04:52 - 直播标题设置成功！
+2026-01-10 22:04:52 - 正在获取直播推流码...
+2026-01-10 22:04:52 - 开始直播请求成功！
+2026-01-10 22:04:52 - 获取推流码成功！
+2026-01-10 22:04:52 - 直播已开启！请使用推流码进行直播！
+2026-01-10 22:04:57 - 已复制服务器地址到剪贴板
+2026-01-10 22:05:12 - 已复制推流码到剪贴板
+2026-01-10 22:05:21 - 推流信息已保存到桌面: /Users/cyh/Desktop/code.txt
+2026-01-10 22:55:07 - 正在停止直播...
+2026-01-10 22:55:07 - 停止直播请求成功！
+2026-01-10 22:55:07 - 直播已停止！
+2026-01-10 22:55:22 - UP主基本信息获取成功！
+2026-01-10 22:55:22 - UP主统计信息获取成功！
+2026-01-10 22:55:22 - 已更新UP主信息！
